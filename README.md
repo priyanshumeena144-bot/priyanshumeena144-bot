@@ -2,78 +2,211 @@
 
 # 👋 Hi, I'm Priyanshu Meena
 
-### 🚀 Full Stack Developer | AI Enthusiast | ML Learner
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=22C55E&center=true&vCenter=true&width=700&lines=B.Tech+Software+Engineering+Student+at+DTU;AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Building+CricketMind+AI;Hackathon+Winner" />
+
+---
+
+### 🎓 B.Tech (Software Engineering) Student at DTU  
+### 🏆 YOSICON Hackathon Winner  
+### 🤖 AI • Machine Learning • Full Stack Development  
+### 💻 Python • C++ • React • FastAPI • Cybersecurity  
+
+<img src="https://img.shields.io/badge/BUILD-PASSING-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-POWERED-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OPEN-SOURCE-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REACT-FRONTEND-61dafb?style=for-the-badge&logo=react" />
 
 </div>
 
 ---
 
-## 🧠 About Me
+# 🚀 About Me
 
-- 🏏 Building **CricketMind AI**
-- 💻 Interested in Full Stack Development
-- 🤖 Learning Machine Learning & AI
-- 📊 Exploring Cricket Analytics
-- 🎯 Goal: Build IPL-level AI systems
+- 🏏 Building **CricketMind AI** — AI-powered cricket analytics platform
+- 🤖 Exploring Machine Learning & Deep Learning
+- 🌐 Interested in Full Stack Development
+- 📊 Working on real-time sports analytics systems
+- 🧠 Learning scalable AI architectures
+- 🎯 Goal: Build production-grade AI products
 
 ---
 
-## ⚡ Tech Stack
+# ⚡ Tech Stack
 
-### Frontend
-- React.js
-- Next.js
-- Tailwind CSS
+## 👨‍💻 Languages
 
-### Backend
-- Node.js
-- FastAPI
-- Express.js
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,java,sql" />
+</p>
 
-### Database
-- PostgreSQL
-- MongoDB
+---
 
-### AI/ML
-- Python
+## 🌐 Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,vite" />
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+---
+
+## 🧠 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
 - Pandas
+- NumPy
 - Scikit-learn
+- XGBoost
+- Data Analytics
 
 ---
 
-## 🚀 Current Project
+## 🗄️ Database
 
-### 🏏 CricketMind AI
-AI-powered cricket strategy and analytics platform for:
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+</p>
+
+---
+
+# 🏏 Featured Project
+
+# CricketMind AI
+
+### AI-Powered Cricket Strategy & Analytics Platform
+
+CricketMind AI is a real-time cricket intelligence system designed for:
 - Bowlers
 - Batsmen
 - Coaches
+- Analysts
 - IPL Franchises
 
 ---
 
-## 📈 GitHub Stats
+## 🔥 Features
 
-![Stats](https://github-readme-stats.vercel.app/api?username=priyanshumeena144-bot&show_icons=true&theme=tokyonight)
+### 🎯 Bowler Strategy Engine
+- Best bowler matchup
+- Yorker/bouncer/slower-ball recommendations
+- Line & length prediction
+- Wicket probability analysis
+- Field placement suggestions
+
+---
+
+### 🏏 Batsman AI Engine
+- Shot selection recommendations
+- Scoring zone analysis
+- Wagon wheel analytics
+- Bowler pattern prediction
+- Boundary probability detection
 
 ---
 
-## 🔥 Most Used Languages
+### 🧠 Coach Tactical Dashboard
+- Playing XI optimizer
+- Match simulations
+- Toss impact analysis
+- Bowling rotation planning
+- Venue-based strategy generation
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshumeena144-bot&layout=compact&theme=tokyonight)
+---
+
+### 📡 Live Match AI
+- Real-time tactical insights
+- Momentum analysis
+- Win probability tracking
+- Pressure alerts
+- Tactical recommendations
 
 ---
 
-## 🌐 Connect With Me
+# 📸 Dashboard Preview
 
-- LinkedIn
-- GitHub
-- Portfolio (Coming Soon)
+### 🖥️ CricketMind AI Tactical Dashboard
+
+![Dashboard](https://placehold.co/1200x600/0f172a/22c55e?text=CricketMind+AI+Dashboard)
 
 ---
+
+# 🛠️ Tech Used In CricketMind AI
+
+| Technology | Purpose |
+|---|---|
+| React + Tailwind | Frontend UI |
+| FastAPI | Backend APIs |
+| PostgreSQL | Database |
+| Python | AI/ML |
+| Scikit-learn | ML Models |
+| WebSockets | Real-time Updates |
+
+---
+
+# 📈 GitHub Stats
 
 <div align="center">
 
-### ⭐ “Building AI systems for the future of cricket.”
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshumeena144-bot&show_icons=true&theme=tokyonight)
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshumeena144-bot&layout=compact&theme=tokyonight)
+
+---
+
+![GitHub Streak](https://streak-stats.demolab.com?user=priyanshumeena144-bot&theme=tokyonight)
+
+</div>
+
+---
+
+# 📂 Current Focus
+
+- 🧠 AI-powered systems
+- 📊 Sports analytics
+- ⚡ Real-time applications
+- 🌐 Full-stack development
+- 🤖 Machine Learning Projects
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/priyanshumeena144-bot">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+### ⭐ “Building AI systems for the future of sports analytics.”
 
 </div>
