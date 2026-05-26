@@ -22,7 +22,6 @@
 
 # 🚀 About Me
 
-- 🏏 Building **CricketMind AI** — AI-powered cricket analytics platform
 - 🤖 Exploring Machine Learning & Deep Learning
 - 🌐 Interested in Full Stack Development
 - 📊 Working on real-time sports analytics systems
